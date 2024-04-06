@@ -5,28 +5,24 @@
   box-sizing: border-box;
 }
 
-/* Header styles */
-header {
+.logo {
   background-color: #f58220;
   padding: 10px 20px;
-}
-
-.logo {
   color: white;
   font-weight: bold;
   font-size: 24px;
 }
 
 .custom-color {
-color: #ffffff;
+  color: #ffffff;
   background-color: #f58220;
 }
 
 .custom-color :hover {
- background-color: #f58220;
+  background-color: #f58220;
 }
 
 .bg-color {
   background-color: #fff2e3;
-  
+
 }
